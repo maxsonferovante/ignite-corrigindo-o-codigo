@@ -13,9 +13,12 @@ Claro, vou colocar tudo em um único bloco de markdown para facilitar a inclusã
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
 </p>
 
-## 🚀 Sobre o desafio
+## 🚀 O que é e o propósito do projeto
 
-Neste desafio, você irá corrigir uma aplicação Node.js que realiza o CRUD de repositórios de projetos e permite a adição de likes a esses repositórios. Parte dos testes deixaram de passar após algumas alterações no código, e sua missão é corrigi-lo para garantir o funcionamento correto.
+Este projeto é parte do Desafio 03 do Bootcamp Ignite da Rocketseat, que se concentra em corrigir uma aplicação Node.js que gerencia repositórios de projetos e permite a adição de likes a esses repositórios. Alguns testes não estão passando após alterações no código, e a missão é corrigi-lo para garantir o funcionamento correto.
+
+A aplicação lida com operações de CRUD (Create, Read, Update, Delete) para repositórios, permitindo a adição, listagem, atualização e exclusão deles. Além disso, é possível adicionar likes a esses repositórios.
+
 
 A aplicação segue a seguinte estrutura para um novo repositório:
 ```jsx
